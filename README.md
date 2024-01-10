@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartheek188
 - 👀 I’m interested in coding
-- \- 🌱 I’m currently learning unknow subject
+- \- 🌱 I’m currently learning Java web development 
 - 💞️ I’m looking to collaborate on online & offline platforms
 - 📫 How to reach me bachchukartheek2001@gmail.com / +916304884322
 
